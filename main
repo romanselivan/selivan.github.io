@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personality as a Service</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Personality as a Service</h1>
+        <p>Empowering Businesses and Art with Expertise in Startups, Blockchain, Art & Culture</p>
+    </header>
+
+    <!-- Секция с описанием услуг -->
+    <section id="services">
+        <h2>Services</h2>
+        <div class="service">
+            <h3>Quick Hypothesis Testing & Startup Creation</h3>
+            <p>From concept to MVP — validate business ideas rapidly and cost-effectively.</p>
+            <a href="#contact" class="cta-button">Book Consultation</a>
+        </div>
+        <div class="service">
+            <h3>Managing US Companies & Spanish Startup Visas</h3>
+            <p>Start, manage, and optimize your business structures in the US and obtain Spanish startup visas.</p>
+            <a href="#contact" class="cta-button">Learn More</a>
+        </div>
+        <!-- Добавь здесь другие услуги с описаниями -->
+    </section>
+
+    <!-- Секция с направлениями экспертизы -->
+    <section id="expertise">
+        <h2>Expertise</h2>
+        <p>I offer deep expertise across multiple fields, ensuring tailored guidance for every need:</p>
+        <ul>
+            <li>Blockchain and Cryptocurrency Knowledge</li>
+            <li>Non-Profit Management and Cultural Production</li>
+            <li>Art Practice Development and Cultural Trips Across Europe</li>
+            <li>Environmental, HoReCa, Fashion, and IT Business Creation</li>
+            <!-- Продолжи со всеми остальными направлениями -->
+        </ul>
+    </section>
+
+    <!-- Секция с описанием CJ (Целевые пути пользователей) -->
+    <section id="user-journeys">
+        <h2>Who Is This For?</h2>
+        <div class="journey">
+            <h3>For Startup Founders</h3>
+            <p>Guidance from idea to execution with resources for structuring, funding, and growth strategies.</p>
+            <a href="#contact" class="cta-button">Startup Path</a>
+        </div>
+        <div class="journey">
+            <h3>For Investors</h3>
+            <p>Opportunities for partnerships, advisorships, and high-retention product strategies.</p>
+            <a href="#contact" class="cta-button">Investor Path</a>
+        </div>
+        <div class="journey">
+            <h3>For Art Enthusiasts</h3>
+            <p>Explore the art world with curated trips, unique art practices, and deep-dive cultural insights.</p>
+            <a href="#contact" class="cta-button">Art Lover Path</a>
+        </div>
+    </section>
+
+    <!-- Секция с контактами и ссылками в Telegram -->
+    <section id="contact">
+        <h2>Join My Telegram Club</h2>
+        <p>Get exclusive insights and connect with like-minded professionals.</p>
+        <a href="https://t.me/your-telegram-link?start=utm_source=website&utm_medium=cta&utm_campaign=contact_section" class="join-button">Join Free Club</a>
+        <a href="https://t.me/your-telegram-link?start=utm_source=website&utm_medium=cta&utm_campaign=consultation" class="cta-button">Book a Consultation</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Roman Selivan as a Service. All rights reserved.</p>
+    </footer>
+</body>
+</html>
